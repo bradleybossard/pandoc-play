@@ -1,3 +1,7 @@
+% Example PDF
+% Bradley Bossard
+% July 1, 2016
+
 Title
 =====
 
